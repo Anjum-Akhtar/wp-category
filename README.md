@@ -1,0 +1,2 @@
+# wp-category
+Show category
